@@ -1,4 +1,3 @@
-# LinkedList | Lista Encadeada
-# Double LinkedList | Lista Duplamente Encadeada
+# LinkedList & Double LinkedList 
 
 Projeto onde é feita uma lista encadeada e uma duplamente encadeada
